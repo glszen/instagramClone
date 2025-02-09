@@ -19,7 +19,8 @@ This project is a simple Instagram clone created using HTML, CSS, and Bootstrap.
 
 ## Preview
 
-![Instagram Clone](path/to/your/preview-image.png)
+![Instagram Clone]![screenshot](https://github.com/user-attachments/assets/1d2d936b-8f48-49dc-bd6e-389e8532d9b6)
+()
 
 ## Installation
 
